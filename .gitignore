@@ -1,0 +1,13 @@
+
+*config.php
+**ContenidoSecreto
+assets/*.pdf
+*.txt
+/iamges
+
+!*-system*
+
+*-prueba
+*-local
+!*-experimento
+
