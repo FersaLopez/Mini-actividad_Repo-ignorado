@@ -1,13 +1,19 @@
-
 *config.php
-**ContenidoSecreto
+**ContenidoSecreto 
+#bien hecho
 assets/*.pdf
+assets/media/files/*.pdf
 *.txt
-/iamges
+
+*.jpg 
+*.gif 
+*.png
+*.jpeg
+*.webp
 
 !*-system*
 
-*-prueba
-*-local
-!*-experimento
+*-prueba*
+*-local*
+!*-experimento*
 
